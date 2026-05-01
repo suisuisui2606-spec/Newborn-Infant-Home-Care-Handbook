@@ -8,8 +8,8 @@ This repository organizes practical family-care documents for postpartum recover
 
 ## 文档目录 / Documents
 
-| 中文文档 | English | Markdown |
-| --- | --- | --- |
+| 中文文档 | English | 
+| --- | --- |
 | 家庭产后护理要求及规范 | Postpartum Home Care Requirements and Standards |
 | 2-12个月婴幼儿喂养与家庭照护手册 | 2-12 Month Infant Feeding and Home Care Handbook | 
 | 婴幼儿异常情况就医提示清单 | Infant Medical Warning Signs and Care-Seeking Checklist | 
