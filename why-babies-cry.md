@@ -341,27 +341,3 @@ Infant motor development generally progresses from head control to trunk control
 | Large blood in stool, black tarry stool, gray-white stool | Urgent evaluation |
 | Rapidly spreading rash, pus, fever with rash | Medical evaluation |
 | Caregiver feels something is clearly wrong | Trust the observation and seek help |
-
----
-
-## Image Notes
-
-The source Markdown contained several internal Feishu image links. These links may not display after uploading to GitHub. For a public GitHub version, replace them with images stored in a repository folder such as `assets/`, then reference them like:
-
-
-```md
-![Skin rash example](assets/skin-rash-example.jpg)
-```
-
-## Suggested Repository Structure
-
-```text
-baby-care-guide/
-├── README.md
-├── assets/
-│   ├── skin-rash-example.jpg
-│   ├── stool-color-guide.jpg
-│   └── tummy-time-example.jpg
-└── docs/
-    └── baby-care-en.md
-```
